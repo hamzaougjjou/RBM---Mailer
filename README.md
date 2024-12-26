@@ -34,5 +34,5 @@ RBM - Mailer is a powerful and efficient email campaign management application b
 ### Backend Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/RBM-Mailer.git
-   cd RBM-Mailer
+   git https://github.com/hamzaougjjou/RBM---Mailer.git
+   cd RBM---Mailer
